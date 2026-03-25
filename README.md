@@ -1,6 +1,6 @@
 #  Mean and variance of a discrete  distribution
 
-# REG NO : 212224230005
+# REG NO : 212224040087
 
 # Aim : 
 
